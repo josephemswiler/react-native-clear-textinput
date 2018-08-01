@@ -3,7 +3,7 @@
 Find the tutorial for this repo here: [Clearing TextInput with React Native on Medium](https://medium.com/@josephemswiler/clearing-textinput-with-react-native-81629145a82b "Clearing TextInput with React Native on Medium")
 
 ### Result:
-![Clearing TextInput with React Native](https://gph.is/2Khtc0o "Clearing TextInput with React Native")
+![Clearing TextInput with React Native](https://media.giphy.com/media/lzoFu8F5sYi6F6RQkT/200w_d.gif "Clearing TextInput with React Native")
 
 ### To use this repo:
 ```
